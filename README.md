@@ -1,6 +1,7 @@
 # LittleClassRoomManagement
-## Application developed in Python using the PySimpleGUI library with the purpose of manage a high school 
-In this little projecto we'll treat a little dabata base, based on the following structure
+## Application developed in Python using the PySimpleGUI library with the purpose of manage a high school  
+
+In this little projecto we'll treat a little dabata base, based on the following structure  
 ![image](https://user-images.githubusercontent.com/97992506/203162431-3708f4a1-f013-453c-9d1d-6e624a99ea82.png)  
 
 We'll be able to look up the registered students  
@@ -12,4 +13,5 @@ As well as insert new ones
 Or import the data from a text file  
 ![image](https://user-images.githubusercontent.com/97992506/203163021-2309ac7d-fec4-4883-b708-0770bc8c9a3a.png)  
 
-We can also insert new teachers and subjects, but no options to look for them have been added yet
+We can also insert new teachers and subjects, but no options to look for them have been added yet  
+![image](https://user-images.githubusercontent.com/97992506/203163409-67bec2c9-bb9f-4f77-9388-bc901d233bdb.png)
