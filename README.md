@@ -1,5 +1,5 @@
 # LittleClassRoomManagement
-##Application developed in Python with the purpose of manage a high school  
+## Application developed in Python using the PySimpleGUI library with the purpose of manage a high school 
 In this little projecto we'll treat a little dabata base, based on the following structure
 ![image](https://user-images.githubusercontent.com/97992506/203162431-3708f4a1-f013-453c-9d1d-6e624a99ea82.png)  
 
