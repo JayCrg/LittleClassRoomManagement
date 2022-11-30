@@ -1,7 +1,7 @@
 # LittleClassRoomManagement
 ## Application developed in Python using the PySimpleGUI library with the purpose of manage a high school  
 
-In this little projecto we'll treat a little dabata base, based on the following structure  
+In this little project we'll treat a little data base, based on the following structure  
 ![image](https://user-images.githubusercontent.com/97992506/203162431-3708f4a1-f013-453c-9d1d-6e624a99ea82.png)  
 
 We'll be able to look up the registered students  
@@ -15,3 +15,9 @@ Or import the data from a text file
 
 We can also insert new teachers and subjects, but no options to look for them have been added yet  
 ![image](https://user-images.githubusercontent.com/97992506/203163409-67bec2c9-bb9f-4f77-9388-bc901d233bdb.png)
+
+DataBase controllers can be messy, specially the YearDBController. This is due to the lack of functionality the 
+rest of the classes have, making the year (which is already who creates all the other objects) the main class and
+center of all.
+In case that more functionality is added to the rest of the classes (for example, charging the information for only
+1 teacher it should be added in it respective class and DB controller
